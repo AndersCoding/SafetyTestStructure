@@ -12,7 +12,7 @@ export default function Index() {
     >
       <Text>Velkommen til risktester!</Text>
       <Pressable>
-        <Link href="/riskCheckerPage">Take test</Link>
+        <Link href="/riskCheckerPage">Ta testen</Link>
       </Pressable>
     </View>
   );

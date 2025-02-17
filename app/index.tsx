@@ -7,11 +7,11 @@ export default function Index() {
       style={{
         flex: 1,
         justifyContent: "center",
-        alignItems: "center",
+        alignItems: "center"
       }}
     >
       <Text>Velkommen til risktester!</Text>
-      <Pressable>
+      <Pressable style={{marginTop:20}}>
         <Link href="/riskCheckerPage">Ta testen</Link>
       </Pressable>
     </View>

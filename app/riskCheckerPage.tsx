@@ -146,7 +146,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#f5f5f5",
   },
   answeredQuestion: {
-    backgroundColor: "#000",
+    backgroundColor: "green",
     borderColor: "#000",
   },
   answeredText: {
